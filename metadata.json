@@ -1,0 +1,5 @@
+{
+  "name": "adam",
+  "description": "A sentimental AI app that creates a 'Time Travel Hug' by combining photos of your current and younger self.",
+  "requestFramePermissions": []
+}
